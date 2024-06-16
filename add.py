@@ -5,7 +5,7 @@ class Add:
         """Add two integers and return their sum
 
             :param int x: first number to add
-            :type int x: int
+            :type int x: float
             :param y: second number to be added
             :type y: int
 
