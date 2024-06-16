@@ -1,7 +1,7 @@
 class Add:
     """This is a test class."""
 
-    def add(self, x: int, y: int) -> int:
+    def addddd(self, x: int, y: int) -> int:
         """Add two integers and return their sum
 
             :param int x: first number to be added
