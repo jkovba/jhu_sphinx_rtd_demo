@@ -4,8 +4,7 @@ class Add:
     def add(self, x: int, y: int) -> int:
         """Add two integers and return their sum
 
-            :param int x: first number to add
-            :type int x: float
+            :param float x: first number to add
             :param y: second number to be added
             :type y: int
 
