@@ -4,13 +4,15 @@ class Add:
     def add(self, x: int, y: int) -> int:
         """Add two integers and return their sum
 
-            :param float x: first number to add
-            :param y: second number to be added
+            :param x: add me first
+            :type x: int
+            :param y: add me second
             :type y: int
 
             :returns: Sum of x and y
 
             :rtype: int
+
         """
 
         return (x + y)
