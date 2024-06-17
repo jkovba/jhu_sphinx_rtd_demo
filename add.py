@@ -9,7 +9,7 @@ class Add:
             :param y: add me second
             :type y: int
 
-            :returns: Sum of x and y
+            :returns: summation of x and y
 
             :rtype: int
 
